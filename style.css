@@ -8,7 +8,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Open Sans', sans-serif;
-    background-image:url(file:///C:/Users/Veron/Pictures/back.jpg);
+    background-image:url(back.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
