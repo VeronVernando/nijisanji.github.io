@@ -8,7 +8,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Open Sans', sans-serif;
-    background-image:url(back.jpg);
+    background-image:url(https://raw.githubusercontent.com/VeronVernando/veronvernando.github.io/main/back.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
